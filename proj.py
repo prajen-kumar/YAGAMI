@@ -1,6 +1,7 @@
+#calculator
 from tkinter import *
 r=Tk()
-r.geometry("500x400")
+r.geometry("600x500")
 r.config(bg="black")
 def add ():
     n1=int(num1.get())
