@@ -1,3 +1,4 @@
+#FLAMES PROJECT..
 from tkinter import *
 oo=Tk()
 oo.geometry('800x900')
