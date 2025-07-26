@@ -1,6 +1,6 @@
 from tkinter import *
 oo=Tk()
-oo.geometry('800x600')
+oo.geometry('800x900')
 oo.title("FLAMES CALCULATOR")
 ph=PhotoImage(file="z://KHALIQUE AHMED//MYSQL BATCH//C151//emoj.PNG")
 oo.config(background="#cc0c0c")
