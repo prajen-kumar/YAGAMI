@@ -1,0 +1,4 @@
+import qrcode as qr
+img=qr.make("https://prajen-kumar.github.io/DEMO/roo.html")
+img.save("img.png")
+print("saved")
